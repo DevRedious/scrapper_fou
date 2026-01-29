@@ -1,0 +1,12 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+ruby '>= 3.0.0'
+
+gem 'nokogiri', '~> 1.15'
+gem 'httparty', '~> 0.21'
+
+gem 'rspec', '~> 3.12'
+
+gem 'pry', '~> 0.14'
