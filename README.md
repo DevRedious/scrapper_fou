@@ -107,7 +107,6 @@ le-scrappeur-fou/
 │   ├── mairie_scraper_spec.rb
 │   └── depute_scraper_spec.rb
 ├── Gemfile
-├── .rspec
 └── README.md
 ```
 
